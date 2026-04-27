@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/museo EVP.unity
+    guid: 37d01ee9cb3204b6d970647f9407c378
+  - enabled: 1
+    path: Assets/Scenes/Torque.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Clon.unity
+    guid: de66bbcb36fd01942945ffeddcbdfc7e
+  - enabled: 1
+    path: Assets/Scenes/Corrutina.unity
+    guid: 66a09d64d48ad904d83d3809a9116a30
+  - enabled: 1
+    path: Assets/Scenes/domino.unity
+    guid: 1749e79457316fd4e82b1ec37a7fce96
+  - enabled: 1
+    path: Assets/Scenes/Velocidad.unity
+    guid: 344aecb570b28c343823e5b72cd5660a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
